@@ -6,6 +6,6 @@ RESTful API built on Flask using Python that allows open contributions to the Op
 
 ## Authors
 
-- (http://rukmal.me)[Rukmal Weerawarana]
-- (http://christophersu.net)[Christopher Su]
+- [Rukmal Weerawarana](http://rukmal.me)
+- [Christopher Su](http://christophersu.net)
 - Terren Krietzman
