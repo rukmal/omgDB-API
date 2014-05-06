@@ -1,5 +1,8 @@
 # Ignoring system files
 .DS_Store
 
-# Ignoring node modules
-node_modules
+# Ignoring pycache files
+*.pyc
+
+# Ignoring all python build files
+build
