@@ -2,3 +2,4 @@ pymongo==2.7
 flask-restful-swagger==0.10
 Flask==0.10.1
 Jinja2==2.7.1
+gunicorn==18.0
