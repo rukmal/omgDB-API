@@ -4,8 +4,6 @@
 
 RESTful API built on Flask using Python that allows open contributions to the Open Music Genome Project database"
 
-## Authors
+## License
 
-- [Rukmal Weerawarana](http://rukmal.me)
-- [Christopher Su](http://christophersu.net)
-- Terren Krietzman
+This project is released under the MIT license. See [here](blob/master/LICENSE).
