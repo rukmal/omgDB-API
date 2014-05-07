@@ -6,4 +6,4 @@ RESTful API built on Flask using Python that allows open contributions to the Op
 
 ## License
 
-This project is released under the MIT license. See [here](blob/master/LICENSE).
+This project is released under the MIT license. See [here](LICENSE).
