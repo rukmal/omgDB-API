@@ -16,6 +16,6 @@ Do not attempt to perform restricted functions. Your IP address will be blocked 
 
 ## Contact
 
-This is an open source project released under the [MIT License](LICENSE). If you want to suggest and improvement, or fork and send a pull request!
+This is an open source project released under the [MIT License](LICENSE). If you want to suggest an improvement, or fork and send a pull request!
 
 http://rukmal.me
