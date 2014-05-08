@@ -1,6 +1,6 @@
 # Open Music Genome Project API
 
-## This project is a part of the [omgDB](http://github.com/omgDB) (Open Music Genome Project).
+**This project is a part of the [omgDB](http://github.com/omgDB) (Open Music Genome Project).**
 
 ## Description
 
@@ -16,6 +16,6 @@ Do not attempt to perform restricted functions. Your IP address will be blocked 
 
 ## Contact
 
-This is an open source project released under the [MIT License](LICENSE). If you want to suggest an improvement, or fork and send a pull request!
+This is an open source project released under the [MIT License](LICENSE). Contact me if you want to suggest an improvement, or fork and send a pull request!
 
 http://rukmal.me
